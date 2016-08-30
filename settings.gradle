@@ -1,1 +1,1 @@
-include ':app', ':activitytest', ':activitylifecycletest', ':uiwidgettest', ':uilayouttest', ':listviewtest', ':uibestpractice', ':fragmenttest', ':fragmentbestpractice', ':mybroadcastreceiverpractice', ':myreceiverbestpractice', ':mymusicplayer'
+include ':mymusicplayer'
